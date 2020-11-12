@@ -1,0 +1,12 @@
+/* ---------------------------------------------------
+    MEDIAQUERIES
+----------------------------------------------------- */
+
+@media (max-width: 768px) {
+    #sidebar {
+        margin-left: -230px !important;
+    }
+    #sidebar.active {
+        margin-left: 0px !important;
+    }
+}
